@@ -7,7 +7,6 @@ Building optimized tools, custom interfaces, and modern web projects.
 
 ### Tech Stack
 
-* C++
 * ImGui
 * HTML / Web Development
 
