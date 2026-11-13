@@ -43,9 +43,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/TeskWc?label=Followers&style=for-the-badge&color=1565C0&logo=github" />
+<img src="https://img.shields.io/github/followers/teskwtf?label=Followers&style=for-the-badge&color=1565C0&logo=github" />
 
-<img src="https://img.shields.io/github/public-repos/TeskWc?label=Repositories&style=for-the-badge&color=0D6EFD&logo=github" />
+<img src="https://img.shields.io/github/public-repos/teskwtf?label=Repositories&style=for-the-badge&color=0D6EFD&logo=github" />
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<a href="https://github.com/TeskWc">
+<a href="https://github.com/teskwtf">
   <img src="https://img.shields.io/badge/VIEW%20MY%20CONTRIBUTIONS-0D6EFD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
