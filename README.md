@@ -39,25 +39,27 @@
 
 ---
 
-### `03` / GitHub Statistics
+### `03` / Performance & Impact
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/teskwtf?label=Followers&style=for-the-badge&color=1565C0&logo=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teskwtf&theme=github_dark" width="100%" />
 
-<img src="https://img.shields.io/github/public-repos/teskwtf?label=Repositories&style=for-the-badge&color=0D6EFD&logo=github" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teskwtf&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teskwtf&theme=github_dark" width="49%" />
 
 </div>
+
+---
 
 ### `04` / Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/teskwtf">
-  <img src="https://img.shields.io/badge/VIEW%20MY%20CONTRIBUTIONS-0D6EFD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<p><sub>Check out my GitHub profile and contribution history.</sub></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teskwtf&theme=github_dark&utcOffset=-3" width="70%" />
 
 </div>
 
