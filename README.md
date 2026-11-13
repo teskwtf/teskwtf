@@ -53,3 +53,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeskWc&bg_color=0D1117&color=3B9EFF&line=2563EB&point=60A5FA&area=true&hide_border=true" width="100%" />
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=100&section=footer" width="100%" />
+
+<p><sub>Learning every day. Building for tomorrow.</sub></p>
+
+</div>
