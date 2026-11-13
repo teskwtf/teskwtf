@@ -39,20 +39,4 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teskwtf&theme=github_dark" width="85%" />
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teskwtf&theme=github_dark" width="42%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teskwtf&theme=github_dark" width="42%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=65&section=footer" width="100%" />
-
-<sub>Learning every day. Building for tomorrow.</sub>
-
 </div>
