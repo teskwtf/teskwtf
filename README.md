@@ -40,9 +40,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TeskWc&show_icons=true&theme=transparent&hide_border=true&title_color=3B9EFF&icon_color=3B9EFF&text_color=94A3B8" />
+<img src="https://github-readme-stats.vercel.app/api?username=TeskWc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B9EFF&icon_color=3B9EFF&text_color=C9D1D9&rank_icon=github" height="170" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeskWc&layout=compact&theme=transparent&hide_border=true&title_color=3B9EFF&text_color=94A3B8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeskWc&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B9EFF&text_color=C9D1D9" height="170" />
 
 </div>
 
@@ -50,16 +50,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeskWc&bg_color=00000000&color=3B9EFF&line=2563EB&point=60A5FA&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=100&section=footer" width="100%" />
-
-<p><sub>Learning every day. Building for tomorrow.</sub></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeskWc&bg_color=0D1117&color=3B9EFF&line=2563EB&point=60A5FA&area=true&hide_border=true" width="100%" />
 
 </div>
