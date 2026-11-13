@@ -1,21 +1,16 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=3B9EFF&center=true&vCenter=true&width=550&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+TeskWc.;Cybersecurity+Student;Always+Learning+%26+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=3B9EFF&center=true&vCenter=true&width=480&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+TeskWc.;Cybersecurity+Student." />
 
-<h2>TeskWc</h2>
+<h3>TeskWc</h3>
 
-<p>
-  <b>Cybersecurity Student · Developer · Technology Enthusiast</b>
-</p>
+<p>Cybersecurity Student · Developer · Technology Enthusiast</p>
 
-<p>
-  Interested in cybersecurity, software development and secure technologies.
-</p>
+<p>Interested in cybersecurity, software development and secure technologies.</p>
 
-<img src="https://img.shields.io/badge/Cybersecurity-0D6EFD?style=flat-square&logo=shieldsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-0D6EFD?style=flat-square" />
 <img src="https://img.shields.io/badge/C%2B%2B-1565C0?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/ImGui-0D6EFD?style=flat-square&logo=opengl&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-1565C0?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-0D6EFD?style=flat-square&logo=linux&logoColor=white" />
 
 </div>
 
@@ -26,10 +21,9 @@
 - Currently studying **Cybersecurity**.
 - Interested in information security and networking.
 - Exploring programming and software development.
-- Passionate about technology and secure systems.
 - Always learning and improving my skills.
 
-### `02` / Technologies & Interests
+### `02` / Technologies
 
 <div align="center">
 
@@ -43,23 +37,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teskwtf&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teskwtf&theme=github_dark" width="85%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teskwtf&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teskwtf&theme=github_dark" width="42%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teskwtf&theme=github_dark" width="49%" />
-
-</div>
-
----
-
-### `04` / Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teskwtf&theme=github_dark&utcOffset=-3" width="70%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teskwtf&theme=github_dark" width="42%" />
 
 </div>
 
@@ -67,8 +51,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=65&section=footer" width="100%" />
 
-<p><sub>Learning every day. Building for tomorrow.</sub></p>
+<sub>Learning every day. Building for tomorrow.</sub>
 
 </div>
